@@ -1,4 +1,4 @@
-# LMSC-261 Problem Sets 0
+# LMSC-261 Problem Set 0
 
 ### How is the Phone Book Search algorithm working?
 
