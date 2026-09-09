@@ -1,4 +1,5 @@
-# LMSC-261 Problem Sets
+# LMSC-261 Problem Sets 0
+
 ### How is the Phone Book Search algorithm working?
 
 **First**, the computer is picking up and opening the book. These steps only need to be done *once* during this process unlike some future steps.
