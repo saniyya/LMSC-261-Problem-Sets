@@ -1,4 +1,4 @@
-#Problem 3.5
+# Problem 3.5
 
 
 bps = int(input("Enter BPM: ")) / 60

@@ -1,4 +1,4 @@
-#Problem 3.1
+# Problem 3.1
 
 
 song_duration_in_seconds = int(input("Enter song duration in seconds: "))
