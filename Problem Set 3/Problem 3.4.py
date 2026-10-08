@@ -6,7 +6,7 @@ song_duration = int(input("Enter song duration: "))
 if song_duration < 2:
     print(f"Short Song")
 
-elif song_duration <= 4:
+elif 2 >= song_duration <= 4:
     print(f"Medium Song")
 
 else:
